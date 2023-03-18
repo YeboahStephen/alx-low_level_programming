@@ -12,7 +12,7 @@
  *
  */
 
-int main(void)
+int main (void)
 	
 {
 	int n;
@@ -24,11 +24,11 @@ int main(void)
 	{
 	printf("%d is positive\n", n);
 	}
-	eslse if (n == 0)
+	else if (n == 0)
 	{
-	printf("%d iszero\n", n);
+	printf("%d is zero\n", n);
 	}
-	eslse
+	else
 	{
 	printf("%d is negative\n", n);
 	}
