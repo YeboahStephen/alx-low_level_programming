@@ -5,14 +5,14 @@
 
 /**
  * main - Entry point
- * REturn: Always 0 (Success)
+ * Return: Always 0 (Success)
  */
-	
-	
+
+
 int main(void)
-	
+
 {
-	
+
 	char low;
 
 	for (low = 'a'; low <= 'z'; low++)
