@@ -20,7 +20,7 @@ int main(void)
 
 	for (s = a + 1; s <= '9'; s++)
 	{
-	
+
 	for (d = s + 1; d <= '9'; d++)
 	{
 	if ((s != a) != d)
@@ -38,4 +38,4 @@ int main(void)
 	}
 	putchar('\n');
 	return (0);
-}	
+}
