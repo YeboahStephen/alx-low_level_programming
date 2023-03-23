@@ -18,7 +18,7 @@ void times_table(void)
 	w = u * v;
 	if (w > 9)
 	{
-	x = w % 18;
+	x = w % 10;
 	y = (w - x) / 10;
 	_putchar(44);
 	_putchar(32);
