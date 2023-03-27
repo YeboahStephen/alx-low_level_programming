@@ -20,8 +20,7 @@ int main(void)
 	}
 	else if (b % 3 == 0)
 	{
-	printf("F
-			izz");
+	printf("Fizz");
 	}
 	else if (b % 5 == 0)
 	{
