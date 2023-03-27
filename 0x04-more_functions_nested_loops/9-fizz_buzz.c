@@ -16,11 +16,12 @@ int main(void)
 	{
 	if ((b % 3 == 0) && (b % 5 == 0))
 	{
-	printf("fizzBuzz");
+	printf("FizzBuzz");
 	}
 	else if (b % 3 == 0)
 	{
-	printf("fizz");
+	printf("F
+			izz");
 	}
 	else if (b % 5 == 0)
 	{
