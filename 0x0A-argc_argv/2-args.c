@@ -4,7 +4,7 @@
 /**
  * main - program that prints all argum
  * ents it receives.
- * @argc: argument count 
+ * @argc: argument count
  * @argv: argument vector
  *
  * Return: Always zero
